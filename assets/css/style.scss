@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+.markdown-body {
+  img {
+    border: 1px solid;
+  }
+}
